@@ -63,14 +63,7 @@ public class Student
         this.name = name;
     }
 
-    public  Integer getAge()
-    {
-        return age;
-    }
-    public void setAge(Integer age)
-    {
-        this.age = age;
-    }
+
 
     public String getEmail() {
         return email;
@@ -87,6 +80,15 @@ public class Student
     {
         this.dob =  dob;
     }
+    public  Integer getAge()
+    {
+        return age;
+    }
+    public void setAge(Integer age)
+    {
+        this.age = age;
+    }
+
 
 
 
